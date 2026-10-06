@@ -1,0 +1,4 @@
+Name: Steven
+Age: 20
+Grade: 90.5
+Passed: true
