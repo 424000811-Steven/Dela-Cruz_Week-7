@@ -3,6 +3,7 @@
 **Dart Fundamentals – Variables, Data Types, Operators &amp; I/O Your Turn: Submit Your Dart Exercises**
 
 **ACTIVITY DESCRIPTION**
+
 This Activity is a simple Dart console program that demonstrates the use of variables, data types, arithmetic operators, comparison operators, and console output.
 
 The program uses a student's name, age, and grade. It calculates the final grade by adding 5 points to the original grade and checks whether the student passed using a comparison operator.
