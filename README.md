@@ -1,6 +1,6 @@
 # Dela-Cruz_Week-7
 
-Dart Fundamentals – Variables, Data Types, Operators &amp; I/O Your Turn: Submit Your Dart Exercises
+**Dart Fundamentals – Variables, Data Types, Operators &amp; I/O Your Turn: Submit Your Dart Exercises**
 
 **ACTIVITY DESCRIPTION**
 This Activity is a simple Dart console program that demonstrates the use of variables, data types, arithmetic operators, comparison operators, and console output.
