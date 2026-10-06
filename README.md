@@ -1,6 +1,21 @@
 # Dela-Cruz_Week-7
 
+**Student Information**
+Name: Steven Alrey A. Dela Cruz
+Section: BSIT 3.2
 **Dart Fundamentals – Variables, Data Types, Operators &amp; I/O Your Turn: Submit Your Dart Exercises**
+
+**Data Types Used**
+
+The program demonstrates the following Dart data types:
+
+String – used for the student's name
+
+int – used for the student's age
+
+double – used for the student's grade
+
+bool – used to indicate whether the student passed
 
 **ACTIVITY DESCRIPTION**
 
